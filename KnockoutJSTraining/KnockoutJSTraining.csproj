@@ -101,7 +101,6 @@
     <Content Include="Content\themes\base\tooltip.css" />
     <Content Include="ControlFlowExamples\bindings.js" />
     <Content Include="ControlFlowExamples\BindingsDemo.aspx" />
-    <Content Include="ControlFlowExamples\extensions.js" />
     <Content Include="ExtensionsDemo\extensions.js" />
     <Content Include="ExtensionsDemo\DemoPage.aspx" />
     <Content Include="ExtensionsDemo\main.js" />
